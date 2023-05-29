@@ -1,5 +1,6 @@
 # pig-game
 
+## [play here](https://anirudhnbua.github.io/pig-game/)
 ## Game Rules
 
 The game follows these rules:
